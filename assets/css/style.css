@@ -1,0 +1,173 @@
+.img-carousel {
+    height: 80vh;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+    /* negro con 50% de opacidad */
+    padding: 1.5rem;
+    border-radius: 1rem;
+}
+
+.magia-blanca {
+    padding-bottom: 15px;
+}
+
+.consulta-personalizada {
+    background-color: #AA0014;
+    color: #FFFFFF;
+    padding: 10px;
+}
+
+.consulta-personalizada .col-md-4 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.ser-amado {
+    padding: 10px;
+}
+
+.lectura-amor {
+    padding: 10px;
+    background-color: #424242;
+    color: #FFFFFF;
+}
+
+.lectura-amor .col-md-4 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.servicios {
+    padding: 10px;
+    background-image: url("../img/Lectura-de-amor-banner-seccion.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.servicios .row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.servicios .col-md-4 {
+    display: flex;
+}
+
+.servicios .card {
+    flex: 1 1 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.endulzamiento {
+    background-color: #000000;
+    padding: 10px;
+    color: #FFFFFF;
+}
+
+.otros-servicios {
+    padding: 10px;
+    background-image: url("../img/Lectura-de-amor-banner-seccion.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.otros-servicios .row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.otros-servicios .col-md-4 {
+    display: flex;
+}
+
+.otros-servicios .card {
+    flex: 1 1 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.mismo-sexo {
+    background-color: #000000;
+    padding: 10px;
+    color: #FFFFFF;
+}
+
+
+.publicidad {
+    color: #FFFFFF;
+    padding: 10px;
+    background-image: url("../img/congregacion-oraculo-de-luz-banner1.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.publicidad-texto {
+    background-color: rgba(0, 0, 0, 0.5);
+    /* negro con 50% de opacidad */
+    padding: 1.5rem;
+    border-radius: 1rem;
+}
+
+.amarres-sexuales {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+.publicidad-section-2 {
+    color: #FFFFFF;
+    padding: 10px;
+    background-image: url("../img/congregacion-oraculo-de-luz-banner1.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.testimonios {
+    padding: 10px;
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+.titulo {
+    padding: 10px;
+}
+
+.testimonios video {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.politicas {
+    padding: 10px;
+    background-color: #424242;
+    color: #FFFFFF;
+    text-align: justify;
+}
+
+.footer {
+    /* position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    z-index: 1000; */
+    background: #000000;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
